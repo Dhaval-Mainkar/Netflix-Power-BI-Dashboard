@@ -4,7 +4,7 @@
 •	Worked in Query Editor for data cleaning also used Power Query inorder to achieve results
 
 # Screenshots
-![netflix1](https://github.com/Dhaval-Mainkar/Netflix-Power-BI-Dashboard/assets/53887636/c239509f-637f-44d4-ba37-4e0f156801f6)
+![netflix3](https://github.com/Dhaval-Mainkar/Netflix-Power-BI-Dashboard/assets/53887636/8063be35-c97b-4324-9bd0-1b91d0fd0cba)
 ![netflix 2](https://github.com/Dhaval-Mainkar/Netflix-Power-BI-Dashboard/assets/53887636/f921fcee-a9c6-4ee5-b44b-aae57965038d)
 
 # Dataset
